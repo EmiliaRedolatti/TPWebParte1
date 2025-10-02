@@ -8,7 +8,17 @@ La idea es que cada persona pueda ver cómo crece su biblioteca personal a lo la
 ### En etapas futuras, la aplicación incluirá:
 * Sistema de logros y medallas (ej: Explorador de Ciencia Ficción, Amante de Clásicos).  
 * Funciones sociales: compartir lecturas, descubrir libros en común y recibir recomendaciones.  
-* Visualizaciones: mapas o líneas de tiempo para seguir el recorrido lector.  
+* Visualizaciones: mapas o líneas de tiempo para seguir el recorrido lector.
+
+## Estructura del proyecto
+```phyton
+mi-huella-de-lectura/
+│── main.go          # Servidor en Go
+│── index.html       # Página de presentación
+│── go.mod           # Módulo de Go
+│── go.sum           # Dependencias de Go
+│── HuellaDactilar.png  # Imagen del proyecto (logo o recurso visual)
+```
 
 ## Ejecución del proyecto
 
