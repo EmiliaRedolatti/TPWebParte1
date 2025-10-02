@@ -1,5 +1,10 @@
 # TPWebParte1
 
+Integrantes: 
+* Abril Iglesias
+* Lucia Gonçalves Dias
+* Emilia Redolatti
+
 ## Mi Huella de Lectura
 
 Mi Huella de Lectura es una aplicación web que permite a los usuarios registrar los libros que leen y los que quieren leer.  
