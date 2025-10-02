@@ -18,8 +18,8 @@ Requisitos
 
 Clonar el repositorio
  - bash
-- git clone https://github.com/EmiliaRedolatti/mi-huella-de-lectura.git
-- cd mi-huella-de-lectura
+- git clone https://github.com/EmiliaRedolatti/TPWebParte1.git
+- cd TPWebParte1
 - go run main.go
 
 Acceder desde el navegador
