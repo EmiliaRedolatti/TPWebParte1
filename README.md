@@ -18,9 +18,9 @@ Requisitos
 
 Clonar el repositorio
  - bash
-git clone https://github.com/tu-usuario/mi-huella-de-lectura.git
-cd mi-huella-de-lectura
-go run main.go
+- git clone https://github.com/tu-usuario/mi-huella-de-lectura.git
+- cd mi-huella-de-lectura
+- go run main.go
 
 Acceder desde el navegador
 http://localhost:8080
