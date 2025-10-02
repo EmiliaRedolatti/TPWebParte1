@@ -18,7 +18,7 @@ Requisitos
 
 Clonar el repositorio
  - bash
-- git clone https://github.com/tu-usuario/mi-huella-de-lectura.git
+- git clone https://github.com/EmiliaRedolatti/mi-huella-de-lectura.git
 - cd mi-huella-de-lectura
 - go run main.go
 
